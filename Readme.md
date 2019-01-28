@@ -1,1 +1,1 @@
-Blockchain made with JavaScript ES6.
+Blockchain implemented in Node (ES6 syntax) using Express.

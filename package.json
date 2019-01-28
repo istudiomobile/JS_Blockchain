@@ -1,0 +1,19 @@
+{
+  "name": "js_blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain impelemented in Node.js and JavaScript ES6",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istudiomobile/JS_Blockchain.git"
+  },
+  "author": "Alfredo Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istudiomobile/JS_Blockchain/issues"
+  },
+  "homepage": "https://github.com/istudiomobile/JS_Blockchain#readme"
+}

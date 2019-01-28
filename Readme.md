@@ -1,1 +1,1 @@
-Blockchain made with TypeScript.
+Blockchain made with JavaScript ES6.

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/istudiomobile/JS_Blockchain/issues"
   },
-  "homepage": "https://github.com/istudiomobile/JS_Blockchain#readme"
+  "homepage": "https://github.com/istudiomobile/JS_Blockchain#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
 }

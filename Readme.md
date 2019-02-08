@@ -1,1 +1,1 @@
-Blockchain implemented in Node (ES6 syntax) using Express.
+Blockchain implemented in Node (ES6 syntax) using Express. React.js front end to handle data input.
